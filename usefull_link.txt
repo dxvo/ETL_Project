@@ -1,0 +1,6 @@
+https://petl.readthedocs.io/en/latest/
+https://github.com/pawl/awesome-etl#python
+https://www.investopedia.com/university/releases/cpi.asp
+
+https://www.bls.gov/cpi/questions-and-answers.htm#Question_3
+https://towardsdatascience.com/building-an-etl-pipeline-in-python-f96845089635
