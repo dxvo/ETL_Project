@@ -6,3 +6,8 @@ https://www.bls.gov/cpi/questions-and-answers.htm#Question_3
 https://towardsdatascience.com/building-an-etl-pipeline-in-python-f96845089635
 
 https://www.kaggle.com/bls/consumer-price-index#cu.data.5.AsizeSouth.csv
+
+
+Food and beverage:
+
+
