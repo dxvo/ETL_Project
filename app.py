@@ -50,9 +50,17 @@ def medical():
 
 
 
-"""@app.route("/api/v1.0/foods")
+@app.route("/api/v1.0/foods")
 def foods():
-    return """
+
+    results = engine.execute("Select * FROM Food;").fetchall()
+    result_list = []
+    
+    for result in results:
+        result_list.append(dict(result))
+    return jsonify(result_list)
+
+
 
 
 if __name__ == '__main__':
